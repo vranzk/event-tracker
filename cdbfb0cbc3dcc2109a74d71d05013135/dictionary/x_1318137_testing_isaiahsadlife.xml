@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0630814fc3dcc2109a74d71d05013117" label="isaiahsadlife" max_length="40" name="x_1318137_testing_isaiahsadlife" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="problem ni isaiah" mandatory="true" max_length="100" name="problem_ni_isaiah" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="ez" label="severity sa problema" mandatory="true" max_length="40" name="severity_sa_problema" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ez" value="ez"/>
+                <element inactive_on_update="false" label="hard betch" value="hard_betch"/>
+                <element inactive_on_update="false" label="medyo lisud" value="medyo_lisud"/>
+            </choice>
+        </element>
+    </element>
+</database>

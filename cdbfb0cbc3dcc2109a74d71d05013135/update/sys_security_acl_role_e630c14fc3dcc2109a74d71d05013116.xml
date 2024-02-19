@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 03:05:46</sys_created_on>
+        <sys_id>e630c14fc3dcc2109a74d71d05013116</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1318137_testing_isaiahsadlife.x_1318137_testing.isaiahbogo</sys_name>
+        <sys_package display_value="testing" source="x_1318137_testing">cdbfb0cbc3dcc2109a74d71d05013135</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testing">cdbfb0cbc3dcc2109a74d71d05013135</sys_scope>
+        <sys_security_acl display_value="x_1318137_testing_isaiahsadlife">aa30c9cbc3dcc2109a74d71d0501312c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e630c14fc3dcc2109a74d71d05013116</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 03:05:46</sys_updated_on>
+        <sys_user_role display_value="x_1318137_testing.isaiahbogo" name="x_1318137_testing.isaiahbogo">7fbff80fc3dcc2109a74d71d0501312a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
